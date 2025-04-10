@@ -51,3 +51,13 @@ ContactManagementSystem/ ├── Contact.java ├── Node.java ├── Co
 4. Clique com o botão direito e selecione Run As → Java Application
 
 5. O menu será exibido no console para interação
+
+❌ Banco de Dados
+Este sistema não utiliza banco de dados. Todos os dados são armazenados temporariamente em memória utilizando lista encadeada simples. O projeto está preparado para futura expansão com integração a um SGBD e API REST.
+
+👨‍🎓 Autor
+João Pedro Souza Nascimento
+Aluno de Análise e Desenvolvimento de Sistemas
+Centro Universitário de Brasília - CEUB
+
+
